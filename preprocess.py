@@ -1,20 +1,3 @@
-"""
---------------------------------------------
-Name: Ayesha Aamer
-SID: 1719585
-CCID: aaamer1
-AnonID: 1000328493
-CMPUT 274, Fall 2022
-
-Assessment: WE04
---------------------------------------------
-
-TEMPLATE: ADD YOUR INFORMATION TO ABOVE
-
-You must determine how to structure your solution.
-Create your functions here and call them from under
-if __name__ == "__main__"!
-"""
 
 import sys, string
 
